@@ -1,0 +1,28 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "movieDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmiraMoussa-code/MovieDB.git"
+  },
+  "keywords": [
+    "movies"
+  ],
+  "author": "Amira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmiraMoussa-code/MovieDB/issues"
+  },
+  "homepage": "https://github.com/AmiraMoussa-code/MovieDB#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
