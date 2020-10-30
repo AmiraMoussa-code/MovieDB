@@ -19,3 +19,7 @@ app.get('/time' , (req, res)=>{
     var time = myDate.getHours() + ":" + myDate.getMinutes();
     res.status(200).send({message : time});
 })
+
+app.get('/hello/' , userId , (req,res)=>{
+
+})
